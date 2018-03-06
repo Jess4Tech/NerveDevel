@@ -1,2 +1,2 @@
 # NerveDevel
-Nerve Bot development repository
+Nerve Bot developmental repository
